@@ -1,0 +1,10 @@
+.fuuter{
+    width: 80%;
+    margin: auto;
+    height: 50px;
+    border-top: 1px solid;
+    background-color: rgba(0, 0, 0, 0.45);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
